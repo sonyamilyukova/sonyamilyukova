@@ -1,0 +1,3 @@
+- Hi, my name is Sonya
+- I’m interested in frontend web development, as well as backend
+- Currently I'm trying to deepen my JS and React knowlege while preparing to job interviews
