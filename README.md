@@ -1,5 +1,6 @@
 ## Hi, my name is Sonya and I'm frontend developer
 
+[Here's my HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list)
 
 Languages and tools:
 
