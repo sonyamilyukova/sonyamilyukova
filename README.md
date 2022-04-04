@@ -23,4 +23,4 @@ If you want to contact me use links below:
 
 - Email: [smshakirova@mail.ru](mailto:smshakirova@mail.ru)
 - Telegram: [@tosolie](https://t.me/tosolie)
-- VKontakte: [sofya_shakirova](https://vk.com/sofya_shakirova)
+- VK: [sofya_shakirova](https://vk.com/sofya_shakirova)
