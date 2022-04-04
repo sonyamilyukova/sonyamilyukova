@@ -21,5 +21,4 @@ Languages and tools:
 
 If you want to contact me use links below:
 
-- Email: [smmilyukova@gmail.com](mailto:smmilyukova@gmail.com)
 - Telegram: [@tosolie](https://t.me/tosolie)
