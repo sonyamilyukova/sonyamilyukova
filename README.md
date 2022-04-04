@@ -1,8 +1,5 @@
 ## Hi, my name is Sonya and I'm frontend developer from Russia
 
-I aim to become a fullstack web developer in the near future, though now I'm a beginner.<br/>
-Currently I'm trying to deepen my JS and React knowlege while preparing to frontend job interviews.<br/>
-(I really hope someone will hire me soon...)<br/>
 
 Languages and tools:
 
