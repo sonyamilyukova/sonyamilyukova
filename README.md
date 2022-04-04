@@ -1,4 +1,4 @@
-## Hi, my name is Sonya and I'm frontend developer from Russia
+## Hi, my name is Sonya and I'm frontend developer
 
 
 Languages and tools:
