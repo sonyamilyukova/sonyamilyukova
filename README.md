@@ -17,10 +17,11 @@ Languages and tools:
 </div>
 <br/>
 
-[Here's my HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list)
-
 If you want to contact me use links below:
 
 - Email: [smshakirova@mail.ru](mailto:smshakirova@mail.ru)
 - Telegram: [@tosolie](https://t.me/tosolie)
 - VK: [sofya_shakirova](https://vk.com/sofya_shakirova)
+
+
+[Here's my HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list)
