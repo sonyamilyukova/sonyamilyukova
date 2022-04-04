@@ -1,7 +1,7 @@
 ## Hi, my name is Sonya and I'm frontend developer
 
-Aim to be a fullstack one day, but still a beginner.</br>
-Currently looking for a job (Moscow based preferable). [Here's my HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list)</br>
+Aim to be a fullstack one day, but still a beginner.<br/>
+Currently looking for a job: [here you can find my HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list)<br/>
 
 Languages and tools I use:
 
@@ -19,9 +19,8 @@ Languages and tools I use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
 </div>
 <br/>
-<br/>
 
-If you want to contact me use links below:
+My contacts:
 
 - Email: [smshakirova@mail.ru](mailto:smshakirova@mail.ru)
 - Telegram: [@tosolie](https://t.me/tosolie)
