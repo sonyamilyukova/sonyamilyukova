@@ -1,6 +1,5 @@
 ## Hi, my name is Sonya and I'm frontend developer
 
-Aim to be a fullstack one day.<br/>
 Currently looking for a job, here you can find my [HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list).<br/>
 Here's my [another GitHub page](https://github.com/sm-shakirova), but affilated with the university.<br/>
 
