@@ -1,8 +1,5 @@
 ## Hi, my name is Sonya and I'm frontend developer
 
-Currently looking for a job, here you can find my [HeadHunter CV](https://hh.ru/resume/7b0a5780ff09cee0340039ed1f524b774c5959?disableBrowserCache=true&hhtmFrom=resume_list).<br/>
-Here's my [another GitHub page](https://github.com/sm-shakirova), but affilated with the university.<br/>
-
 Languages and tools I use:
 
 <div>
@@ -15,7 +12,6 @@ Languages and tools I use:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/effector/effector/blob/master/website/client/static/img/comet.png" title="Effector" alt="Effector" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
 </div>
 <br/>
