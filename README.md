@@ -20,5 +20,4 @@ My contacts:
 
 - Email: [smshakirova@mail.ru](mailto:smshakirova@mail.ru)
 - Telegram: [@tosolie](https://t.me/tosolie)
-- VK: [sofya_shakirova](https://vk.com/sofya_shakirova)
 
